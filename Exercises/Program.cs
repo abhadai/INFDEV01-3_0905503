@@ -34,9 +34,9 @@ namespace Exercises
                 result += "\n";
             }
 
-            int a = Int32.Parse(Console.ReadLine());
-            Console.WriteLine(result);
-            Console.WriteLine(sumTwo(2, 5));
+            int x = Int32.Parse(Console.ReadLine());
+            int y = Int32.Parse(Console.ReadLine());
+            Console.WriteLine(sumTwo(x, y));
             Console.Read();
         }
     }
