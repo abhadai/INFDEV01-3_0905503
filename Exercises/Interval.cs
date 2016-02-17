@@ -15,13 +15,30 @@ namespace Exercises
         {
             start = _start;
             end = _end;
-
-            Sum(_start, _end);
         }
 
-        public int Sum(int x, int y)
+        /*public int Sum()
         {
             return start + end;
+        }*/
+
+        public void Sum()
+        {
+            for(int i = start - 1; i < end; i++)
+            {
+
+            }
+        }
+
+        public int Product()
+        {
+            if(start < end)
+            {
+                start += 1;
+                Console.WriteLine(start * end);
+            }
+
+            return Product();
         }
 
     }

@@ -3,3 +3,4 @@ C:\Users\Andy\Documents\GitHub\INFDEV01-3_0905503\Exercises\bin\Debug\Exercises.
 C:\Users\Andy\Documents\GitHub\INFDEV01-3_0905503\Exercises\bin\Debug\Exercises.pdb
 C:\Users\Andy\Documents\GitHub\INFDEV01-3_0905503\Exercises\obj\Debug\Exercises.exe
 C:\Users\Andy\Documents\GitHub\INFDEV01-3_0905503\Exercises\obj\Debug\Exercises.pdb
+C:\Users\Andy\Documents\GitHub\INFDEV01-3_0905503\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache

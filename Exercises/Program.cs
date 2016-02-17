@@ -22,21 +22,28 @@ namespace Exercises
 
         public static void Main(string[] args)
         {
-            string result = "";
+            //string result = "";
 
-            for (int i = 0; i < 9; i++)
-            {
-                for (int j = 0; j < i; j++)
-                {
-                    result += "*";
-                }
+            //for (int i = 0; i < 9; i++)
+            //{
+            //    for (int j = 0; j < i; j++)
+            //    {
+            //        result += "*";
+            //    }
 
-                result += "\n";
-            }
+            //    result += "\n";
+            //}
 
-            int x = Int32.Parse(Console.ReadLine());
-            int y = Int32.Parse(Console.ReadLine());
-            Console.WriteLine(sumTwo(x, y));
+            //int x = Int32.Parse(Console.ReadLine());
+            //int y = Int32.Parse(Console.ReadLine());
+            //Console.WriteLine(sumTwo(x, y));
+
+            //Interval interval = new Interval(1, 10);
+            //Console.WriteLine(interval.Sum(x, y);
+
+            Interval interval = new Interval(1, 10);
+            interval.Product();
+
             Console.Read();
         }
     }
