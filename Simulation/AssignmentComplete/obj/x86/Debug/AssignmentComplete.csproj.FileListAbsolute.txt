@@ -1,0 +1,157 @@
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\AssignmentComplete 1\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment 2 Complete - no lambda\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mudy\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV03-Assignment\Assignment\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\obj\x86\Debug\AssignmentComplete.exe
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\obj\x86\Debug\AssignmentComplete.pdb
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\background.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\ikea.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\mine.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\mine_cart.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\ore_container.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\product_box.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\product_container.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\Content\volvo.png
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.exe
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\AssignmentComplete.pdb
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andy\Desktop\Simulation\Assignment - CSharp\AssignmentComplete\obj\x86\Debug\AssignmentComplete.csprojResolveAssemblyReference.cache

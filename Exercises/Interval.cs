@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercises
 {
-    class Interval
+    public class Interval
     {
         private int start;
         private int end;
@@ -16,11 +16,6 @@ namespace Exercises
             start = _start;
             end = _end;
         }
-
-        /*public int Sum()
-        {
-            return start + end;
-        }*/
 
         public void Sum()
         {
@@ -40,6 +35,5 @@ namespace Exercises
 
             return Product();
         }
-
     }
 }
