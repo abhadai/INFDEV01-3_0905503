@@ -7,25 +7,8 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace AssignmentComplete
 {
-    class Truck : ITruck
+    class Mine : IFactory
     {
-        public Texture2D truck;
-        public Vector2 position;
-
-        public Truck(Texture2D _truck, Vector2 _position)
-        {
-            this.truck = _truck;
-            this.position = _position;
-        }
-
-        public IContainer Container
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-        }
-
         public Vector2 Position
         {
             get
@@ -34,7 +17,7 @@ namespace AssignmentComplete
             }
         }
 
-        public Vector2 Velocity
+        public List<IContainer> ProductsToShip
         {
             get
             {
@@ -42,20 +25,19 @@ namespace AssignmentComplete
             }
         }
 
-        public void AddContainer(IContainer container)
-        {
-        }
-
         public void Draw(SpriteBatch spriteBatch)
         {
+            throw new NotImplementedException();
         }
 
-        public void StartEngine()
+        public ITruck GetReadyTruck()
         {
+            throw new NotImplementedException();
         }
 
         public void Update(float dt)
         {
+            throw new NotImplementedException();
         }
     }
 }

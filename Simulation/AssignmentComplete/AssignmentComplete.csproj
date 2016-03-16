@@ -47,7 +47,9 @@
     <Compile Include="IComponent.cs" />
     <Compile Include="IFactory.cs" />
     <Compile Include="IContainer.cs" />
+    <Compile Include="Ikea.cs" />
     <Compile Include="ITruck.cs" />
+    <Compile Include="Mine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StateMachine.cs" />
